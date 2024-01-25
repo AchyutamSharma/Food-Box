@@ -1,2 +1,2 @@
 # Food-Box
-This is only One page for Food-Delivery website.
+This is only one page(Hero-Page) for the Food-Delivery website.
