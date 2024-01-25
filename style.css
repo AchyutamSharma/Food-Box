@@ -83,7 +83,7 @@ main{
     width: 37vw;
 }
 .float-card{
-    height: 100px;
+    height: 150px;
     width: 600px;
     color: var(--font);
     background-color: var(--bg-2);
@@ -123,7 +123,9 @@ input{
     border: 0px solid #6C757D;
     border-radius: 15px;
     font-size: 20px;
+    border-color: #F4F4F8;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
+    outline: none;
 }   
 input::placeholder{
     font-size: 18px;
@@ -195,7 +197,9 @@ input::placeholder{
 
 .card-img{
     height: 150px;
+    padding: 10px;
 }
+
 .card p:nth-child(2){
     color: var(--font);
     
@@ -204,5 +208,6 @@ input::placeholder{
 .card p:nth-child(3){
     font-size: 1.3rem;
 }
+
 
 
